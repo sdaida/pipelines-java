@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/daidasreeram/sunildaida/_apis/build/status/sdaida.pipelines-java?branchName=master)](https://dev.azure.com/daidasreeram/sunildaida/_build/latest?definitionId=5&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
